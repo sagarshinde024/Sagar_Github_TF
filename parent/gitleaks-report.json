@@ -1,0 +1,26 @@
+[
+ {
+  "RuleID": "terraform-admin-password",
+  "Description": "Terraform admin password",
+  "StartLine": 68,
+  "EndLine": 68,
+  "StartColumn": 6,
+  "EndColumn": 56,
+  "Match": "admin_password                  = \"adminuser@45678\"",
+  "Secret": "admin_password                  = \"adminuser@45678\"",
+  "File": "terraform.tfvars",
+  "SymlinkFile": "",
+  "Commit": "",
+  "Entropy": 3.6140864,
+  "Author": "",
+  "Email": "",
+  "Date": "",
+  "Message": "",
+  "Tags": [
+   "terraform",
+   "password",
+   "azure"
+  ],
+  "Fingerprint": "terraform.tfvars:terraform-admin-password:68"
+ }
+]
