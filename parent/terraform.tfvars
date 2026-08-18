@@ -8,7 +8,7 @@ rgs={
     location = "Central India"
   }
   rg3 = {
-    name     = "uat-rg"
+    name     = "qa-rg"
     location = "Central India"
   }
 }
